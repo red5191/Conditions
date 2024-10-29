@@ -21,4 +21,4 @@ while True:
     except ValueError:
         continue
 
-print(f'Было введено {count_tries} НЕотрицательных чисел')
+print(f'Было введено {count_tries} чисел')
